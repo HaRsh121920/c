@@ -5,5 +5,6 @@ int main()
     for(int i = 0; i<n; i++){
         cout<<i;
     }
+    int j = 6;
 return 0;
 }
